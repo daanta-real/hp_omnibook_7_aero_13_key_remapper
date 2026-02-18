@@ -1,5 +1,9 @@
 # HP Omnibook 7 Aero 13 Key Remapper (Capture to Insert)
 
+<p align=center>
+  <img height="400" alt="image" src="https://github.com/user-attachments/assets/9061a955-0826-4ed2-811b-b2c408d9cd7f" />
+</p>
+
 - This tool corrects the awkward keyboard layout (missing Insert key) of the HP Omnibook 7 Aero 13.
 
   HP Omnibook 7 Aero 13의 해괴한 키보드 레이아웃(Insert 키 부재)을 교정하기 위한 도구
