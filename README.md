@@ -18,7 +18,7 @@
 
   `Insert` 키가 있어야 할 자리에 `Alt+Win+S`를 강제 전송하는 '캡쳐' 키가 박혀 있음
   
-- **Solution** (해결법)
+- **Solution** (해결 방식)
 
   Intercepts the hardware-level Capture key signal and remaps it to the `Insert` key.
 
