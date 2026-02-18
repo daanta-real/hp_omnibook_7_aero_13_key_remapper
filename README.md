@@ -55,17 +55,29 @@
 ---
 
 ### 3. Usage (사용법)
-1. Run the built `.exe` file.
-   
-   빌드된 실행 파일(`.exe`)을 실행하기.
+1. Run & Hide (실행 및 백그라운드 전환)
 
-2. While running, the 'Capture' key functions as the `Insert` key.
+   Run the built .exe file. It runs immediately in the background without any visible window.
 
-   프로그램이 실행 중일 때 '캡쳐' 키는 `Insert` 키로 작동함.
-   
-3. **To exit, you must manually terminate the process in the Task Manager (Ctrl+Shift+Esc).**
+   빌드된 실행 파일(.exe)을 실행한다. 별도의 창이 뜨지 않고 즉시 백그라운드로 사라져 동작함.
 
-   **종료하려면 작업 관리자(Ctrl+Shift+Esc)에서 해당 프로세스를 찾아 직접 종료해야 함.**
+2. Transformation (키 변환)
+
+   While running, the 'Capture' key functions perfectly as the Insert key.
+
+   프로그램이 실행 중일 때, 쓸모없던 '캡쳐' 키는 완벽하게 Insert 키로 작동함.
+
+3. Autostart Tip (꿀팁)
+
+   It is recommended to place a shortcut in the shell:startup folder for automatic execution on boot.
+
+   매번 켜기 귀찮으므로 shell:startup (시작 프로그램 폴더)에 바로가기를 넣어두고 쓰면 딱임.
+
+4. How to Exit (종료 방법)
+
+   To exit, you must manually terminate the process in the Task Manager (Ctrl+Shift+Esc).
+
+   종료하려면 작업 관리자(Ctrl+Shift+Esc)에서 해당 프로세스를 찾아 직접 '작업 끝내기'를 해야 함.
 
 ---
 
