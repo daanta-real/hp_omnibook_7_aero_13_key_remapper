@@ -11,11 +11,16 @@
 ---
 
 ### 1. Overview & Purpose (개요 및 목적)
-- **Problem**: The 'Capture' key, which forces `Alt+Win+S`, is placed where the `Insert` key should be.
+
+- **Problem** (문제점)
+
+  The 'Capture' key, which forces `Alt+Win+S`, is placed where the `Insert` key should be.
 
   `Insert` 키가 있어야 할 자리에 `Alt+Win+S`를 강제 전송하는 '캡쳐' 키가 박혀 있음
   
-- **Solution**: Intercepts the hardware-level Capture key signal and remaps it to the `Insert` key.
+- **Solution** (해결법)
+
+  Intercepts the hardware-level Capture key signal and remaps it to the `Insert` key.
 
   하드웨어 레벨의 캡쳐 키 신호를 가로채 `Insert` 키 입력으로 변환
 
