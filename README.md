@@ -77,7 +77,11 @@
 
    To exit, you must manually terminate the process in the Task Manager (Ctrl+Shift+Esc).
 
+   This is why the exe file name begins with an underscore (_).
+
    종료하려면 작업 관리자(Ctrl+Shift+Esc)에서 해당 프로세스를 찾아 직접 '작업 끝내기'를 해야 함.
+   
+   이것 때문에 exe 파일 이름이 '_'(언더바)로 시작하게 한 것임.
 
 ---
 
