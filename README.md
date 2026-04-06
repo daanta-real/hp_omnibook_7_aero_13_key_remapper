@@ -93,6 +93,12 @@
   
   로우레벨 가로채기 방식의 특성상, 키를 길게 눌러도 연속 입력(Holding)은 지원되지 않음
 
+- **G key problem**
+
+  There is an intermittent issue where the G key does not work (currently being resolved; for now, please press L-Ctrl Fn Start L-ALT in order).
+  
+  간헐적으로 G키가 먹지 않는 문제가 있음 (해결 중, 일단은 L-Ctrl Fn Start L-ALT 차례대로 누르세요)
+
 ---
 
 ### 5. License (라이선스)
